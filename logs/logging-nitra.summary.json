@@ -1,0 +1,21 @@
+{
+  "runId": "run-20261025-065530Z-g5dl2m",
+  "startedAt": "2026-10-25T06:55:30.344Z",
+  "finishedAt": "2026-10-25T06:55:34.572Z",
+  "elapsedMs": 4228,
+  "pid": 3487,
+  "events": 7,
+  "counts": {
+    "run.started": 1,
+    "api.request": 1,
+    "terminal.stats": 2,
+    "run.finished": 1,
+    "api.response": 1,
+    "mission.claimed": 1
+  },
+  "matches": [],
+  "lateEvents": 4,
+  "refreshed": true,
+  "exitCode": 0,
+  "exitReason": "process-exit"
+}
